@@ -28,9 +28,6 @@ Principais linguagens que utilizo
   <img align="center" alt="Andressa-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-<div><br>
-![Snake animation](https://github.com/andressalmachado/andressalmachado/blob/output/github-contribution-grid-snake.svg)
-</div>
 
   
 
