@@ -8,12 +8,7 @@ Olá! Sou a Andressa L. Machado
   <a https://codepen.io/andressalmachado" target="_blank"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" target="_blank"></a>
 </div>
 
-<div align="center"><br>
-  <a href="https://github.com/andressalmachado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressalmachado&layout=compact&langs_count=7&theme=panda"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressalmachado&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/></a>
-</div>
-<br>
+
 
 Principais linguagens que utilizo
 -------------
